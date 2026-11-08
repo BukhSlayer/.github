@@ -19,8 +19,7 @@ New ports start from [horizon-port-template](https://github.com/BukhSlayer/horiz
 - **Original authors first.** Each port's README and `NOTICE.md` name the original mod's author before anyone else,
   link the original, and state which version and commit the port is based on. The mobs, lore, models, animations,
   textures and structures belong to them. The maintainer of the port is credited for the port's own work.
-- **Same licence as the original.** Each port keeps the licence of the mod it comes from. A mod whose licence doesn't
-  allow a port is not ported.
+- **Same licence as the original.** Each port keeps the licence of the mod it comes from, and says so in its README.
 - **Third-party material is listed per repository.** Code, music or art that the original took from others is credited
   in the port's `NOTICE.md`, with its terms in `docs/third-party.md`.
 - **What the licence doesn't cover stays out of Git.** Audio or other assets whose licence isn't settled are not
