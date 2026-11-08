@@ -10,7 +10,7 @@ Microsoft.
 
 | Port | Original | Original author | Licence | Status |
 |---|---|---|---|---|
-| [horizon-eeeabs-mobs](https://github.com/BukhSlayer/horizon-eeeabs-mobs) | [EEEAB's Mobs](https://modrinth.com/mod/eeeab-s-mobs) 1.20.1-0.98.1 ([source](https://github.com/EEEAB/EEEABsMobs)) | EEEAB | LGPL-3.0-only | Preview |
+| horizon-eeeabs-mobs | [EEEAB's Mobs](https://modrinth.com/mod/eeeab-s-mobs) 1.20.1-0.98.1 ([source](https://github.com/EEEAB/EEEABsMobs)) | EEEAB | LGPL-3.0-only | Private until the original author replies |
 
 New ports start from [horizon-port-template](https://github.com/BukhSlayer/horizon-port-template).
 
